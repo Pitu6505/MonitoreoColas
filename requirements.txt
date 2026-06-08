@@ -1,0 +1,13 @@
+# IBM Quantum (Actualizado al nuevo estándar Runtime)
+qiskit>=1.0.0
+qiskit-ibm-runtime>=0.22.0
+
+# AWS Braket
+amazon-braket-sdk>=1.60.0
+boto3>=1.34.0
+
+# Análisis de datos y Generación de Gráficas para el Paper
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
